@@ -1,0 +1,4013 @@
+[
+    {
+        "task": "Search for hotels in Washington DC",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Washington DC\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "What's the news in India?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"News in India\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to India"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Philadelphia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Philadelphia\"",
+            "Browse the results from various apartment search websites",
+            "Review the listings to get an idea of the price range for 2-bedroom apartments in Philadelphia"
+        ]
+    },
+    {
+        "task": "Open a new tab in Chrome",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the tab switcher button",
+            "Tap the new tab button"
+        ]
+    },
+    {
+        "task": "Set an alarm for 6pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Select the \"Alarm\" tab",
+            "Click the \"+\" button to add a new alarm",
+            "Set the time to 6:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Search for flights from Sydney to Helsinki",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Sydney\" in the departure airport field",
+            "Enter \"Helsinki\" in the destination airport field",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the news in Japan?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Japan\"",
+            "Select a reputable news source from the search results",
+            "Read the news articles about Japan"
+        ]
+    },
+    {
+        "task": "Open the clock",
+        "subgoals": [
+            "Locate the clock app icon",
+            "If the clock app is not on the home screen, access the app drawer/all apps screen",
+            "Tap the clock app icon"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Lowe's?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"Lowe's\"",
+            "Select the nearest Lowe's from the search results",
+            "Request directions to the selected Lowe's"
+        ]
+    },
+    {
+        "task": "Search for hotels in Philadelphia",
+        "subgoals": [
+            "Open a browser",
+            "Go to a hotel booking website or a search engine like Google",
+            "If using a hotel booking website, enter \"Philadelphia\" in the search bar designated for location",
+            "Press \"Enter\" or the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameSpot News?",
+        "subgoals": [
+            "Open a web browser",
+            "Go to YouTube",
+            "Search for \"GameSpot News\"",
+            "Select the GameSpot News channel",
+            "Select the \"Videos\" tab",
+            "Select the latest/most recent upload from the list of videos"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in New Jersey?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in New Jersey\"",
+            "Browse the search results for a restaurant that appeals to you"
+        ]
+    },
+    {
+        "task": "What's the weather like in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"weather in New York\"",
+            "Review the search results to find the current weather information for New York"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Seattle?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Seattle\"",
+            "Browse the search results for a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "What's on the menu at Burger King?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Burger King website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "Install the Calendar app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Calendar\" in the search bar at the top of the Play Store",
+            "Select the correct Calendar app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install",
+            " Open the app by tapping \"Open\" after installation or finding the app icon on the home screen"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in New York\"",
+            "Browse the search results, which might include sites like Yelp, TripAdvisor, or blogs with restaurant recommendations",
+            "Optionally, refine the search by specifying cuisine type, price range, or neighborhood",
+            "Select a restaurant that looks appealing based on reviews, menus, or other criteria"
+        ]
+    },
+    {
+        "task": "Play some music on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Search for the music you want to play",
+            "Select the music from the search results"
+        ]
+    },
+    {
+        "task": "Search for hotels in Atlanta",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "If using a hotel booking site, enter \"Atlanta\" in the search bar designated for location",
+            "Press \"Enter\" or the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Open a new Chrome incognito tab",
+        "subgoals": [
+            "Tap the Chrome icon",
+            "Tap the three dots in the upper right corner",
+            "Tap \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "What's the latest news in space exploration?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in space exploration\"",
+            "Select a reputable news source from the search results",
+            "Read the articles about the latest news in space exploration"
+        ]
+    },
+    {
+        "task": "What's the news in the Dominican Republic?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Dominican Republic news\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to the Dominican Republic"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to Mexico city",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the \"From\" field",
+            "Enter \"Mexico City\" in the \"To\" field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Search for flights from Seoul to Barcelona",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Seoul\" in the departure city field",
+            "Enter \"Barcelona\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the latest news in astrophysics?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in astrophysics\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles on the chosen website to find the latest news"
+        ]
+    },
+    {
+        "task": "What's the news in Jamaica?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Jamaica\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "What is the capital of Switzerland?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"capital of Switzerland\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "The answer will be displayed in the search results"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Sacramento?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Sacramento\"",
+            "Browse the search results, which might include dedicated restaurant review sites, or general search engine results with lists and links to restaurants",
+            "Evaluate the presented options based on criteria that matter to you"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach towel?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy beach towels\"",
+            "Select a relevant link from the search results",
+            "Browse the available beach towels"
+        ]
+    },
+    {
+        "task": "Search for a new perfume",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells perfume",
+            "Use the search bar on the website to search for \"perfume\" or refine the search with specific brands, scents, or notes you are interested in",
+            "Browse the search results to find a perfume that interests you"
+        ]
+    },
+    {
+        "task": "Show me some nice wallpapers for my tablet",
+        "subgoals": [
+            "Open a web browser",
+            "Search for \"tablet wallpapers\"",
+            "Browse through the image results from various websites",
+            "Open the Google Play Store app",
+            "Search for \"wallpaper\" apps",
+            "Install a wallpaper app",
+            "Open the wallpaper app and browse the available wallpapers"
+        ]
+    },
+    {
+        "task": "Search for vegetarian restaurants on Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "In the search bar at the top, type \"vegetarian restaurants\"",
+            "Press \"Enter\" or tap the search icon",
+            "Google Maps will display a list of vegetarian restaurants near your current location"
+        ]
+    },
+    {
+        "task": "Search for flights from Buenos aires to Tokyo",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Buenos Aires\" as the departure city",
+            "Enter \"Tokyo\" as the destination city",
+            "Specify any desired dates or other criteria",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Search for a new blush on Sephora",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Sephora website",
+            "Use the search bar to search for \"blush\"",
+            "Browse the search results for a blush that you like",
+            "Click on the chosen blush to view the product details",
+            " Select a shade or other options",
+            "Click on \"Add to Basket\" or a similar button to add the blush to your cart"
+        ]
+    },
+    {
+        "task": "What's the price of the Hisense TV?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Hisense TVs",
+            "Search for the specific Hisense TV model you are interested in on that website",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "Open a new Chrome private window",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner of the screen",
+            "Select \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "Search for hotels in Chicago",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or use a search engine like Google",
+            "If using a dedicated hotel booking site, enter \"Chicago\" in the search bar designated for location",
+            "If using a search engine, type \"hotels in Chicago\" in the search bar",
+            "Review the search results and select a hotel booking website if you used a search engine",
+            "Browse the listed hotels and filter based on your preferences"
+        ]
+    },
+    {
+        "task": "Search for hotels in Austin",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Austin\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Set an alarm for 4pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Click the \"+\" button to add a new alarm",
+            "Set the time to 4:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Install the Reddit app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Reddit\" in the search bar",
+            "Select the official Reddit app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install",
+            "Open the app"
+        ]
+    },
+    {
+        "task": "How much does a 2x4x8 board cost at Lowes?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Lowe's website",
+            "Search for \"2x4x8 lumber\" or similar wording in the search bar",
+            "Locate the correct product in the search results",
+            "Check the price displayed on the product page"
+        ]
+    },
+    {
+        "task": "Check the settings for the YouTube app",
+        "subgoals": [
+            "Locate the YouTube app icon on the home screen",
+            "Long-press the YouTube app icon",
+            "Tap \"App info\"",
+            "Scroll through the App info page to view the different settings options"
+        ]
+    },
+    {
+        "task": "Search for good Greek restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Type \"good Greek restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results to find a suitable restaurant"
+        ]
+    },
+    {
+        "task": "Play the new Drake video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"new Drake video\"",
+            "Tap the search button",
+            "Select the correct video from the search results"
+        ]
+    },
+    {
+        "task": "Open the files app",
+        "subgoals": [
+            "Locate the \"Files\" app icon",
+            "Tap the \"Files\" app icon to open it"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Maps app",
+        "subgoals": [
+            "Locate the Google Maps app icon",
+            "Long-press the Google Maps app icon",
+            "Select \"App info\" or a similarly named option in the menu that appears",
+            "This will open the settings for the Google Maps app"
+        ]
+    },
+    {
+        "task": "Who is the prime minister of the United Kingdom?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"Who is the prime minister of the United Kingdom\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Locate the answer within the search results"
+        ]
+    },
+    {
+        "task": "Find the nearest grocery store",
+        "subgoals": [
+            "Open a maps application",
+            "Grant the maps app location permissions if it doesn't already have them",
+            "Type \"grocery store\" into the search bar, or tap the suggested \"Groceries\" search category if available",
+            "The app should display nearby grocery stores"
+        ]
+    },
+    {
+        "task": "Search for hotels in Paris",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Paris\"",
+            "Press \"Enter\" or the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Dallas?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Dallas\"",
+            "Browse the results from apartment listing websites to find average rent prices"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Miami?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Miami\"",
+            "Browse the results from various real estate websites to get an idea of the rental prices"
+        ]
+    },
+    {
+        "task": "Find the nearest electronics store that's open tomorrow",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"electronics store\"",
+            "Filter the results to show only stores open tomorrow",
+            "Locate the nearest store from your current location on the map"
+        ]
+    },
+    {
+        "task": "Open a new incognito window in the chrome app",
+        "subgoals": [
+            "Locate and open the Chrome app",
+            "Tap the three vertical dots in the upper right corner of the screen",
+            "Select \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "Search for good Korean restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Type \"good Korean restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results, which may include listings on Google Maps, review sites like Yelp, and other relevant websites"
+        ]
+    },
+    {
+        "task": "Search for flights from London to Paris",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"London\" in the departure city field",
+            "Enter \"Paris\" in the destination city field",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the news in Sri Lanka?",
+        "subgoals": [
+            "Open a browser",
+            "In the search bar, type \"news in Sri Lanka\"",
+            "Press \"Enter\" or tap the search icon",
+            "Select a news article from the search results"
+        ]
+    },
+    {
+        "task": "What are the new products by Samsung?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to the Samsung website",
+            "Find the \"Products\" or similar section of the website",
+            "Look for indications of \"New\" products"
+        ]
+    },
+    {
+        "task": "What is the capital of Sweden?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Sweden?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the results page"
+        ]
+    },
+    {
+        "task": "How much does the LG TV cost?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells LG TVs",
+            "Search for \"LG TV\" on the chosen website",
+            "Select a specific LG TV model from the search results",
+            "Locate the price of the selected LG TV on its product page"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to Buenos aires",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the \"From\" field",
+            "Enter \"Buenos Aires\" in the \"To\" field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Las Vegas?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Las Vegas\"",
+            "Browse the search results for restaurants that look appealing",
+            "Select a restaurant that seems like a good fit"
+        ]
+    },
+    {
+        "task": "What is the capital of Norway?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"what is the capital of Norway\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "What is the capital of Italy?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Italy?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the result displayed on the search results page"
+        ]
+    },
+    {
+        "task": "What is the speed of a rocket?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a rocket\"",
+            "Click on a relevant search result",
+            "Read the information on the website to understand that rocket speed varies greatly depending on the type of rocket, its mission, and its stage in flight"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Target?",
+        "subgoals": [
+            "Open Google Maps",
+            "Search for \"Target\"",
+            "Select the nearest Target store from the search results",
+            "Press \"Directions\""
+        ]
+    },
+    {
+        "task": "Show me some nice wallpapers for my phone",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"phone wallpapers\"",
+            "Browse the image results",
+            "Open the Google Play Store app",
+            "Search for \"wallpaper\" apps",
+            "Install a wallpaper app",
+            "Open the wallpaper app",
+            "Browse the available wallpapers"
+        ]
+    },
+    {
+        "task": "What time is it in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"what time is it in New York\""
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to Tokyo",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the \"From\" field",
+            "Enter \"Tokyo\" in the \"To\" field",
+            "Select desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Check the settings for the Amazon Alexa app",
+        "subgoals": [
+            "Locate the Amazon Alexa app icon",
+            "Tap and hold the Amazon Alexa app icon",
+            "Select \"App info\" or the equivalent option",
+            "This will open the application settings page for the Amazon Alexa app"
+        ]
+    },
+    {
+        "task": "What's the weather like inToronto?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Toronto\" in the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the results displayed, typically showing the current weather and forecast for Toronto"
+        ]
+    },
+    {
+        "task": "Play the new Bruno Mars video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"new Bruno Mars video\" into the search bar",
+            "Tap the search button",
+            "Select the first video in the search results"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in San Diego?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in San Diego\"",
+            "Browse the results and select one that looks appealing"
+        ]
+    },
+    {
+        "task": "What's the price of the LG TV?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells LG TVs",
+            "Search for \"LG TV\" on the chosen website",
+            "Select a specific LG TV model from the search results",
+            "Locate the price of the selected LG TV model on its product page"
+        ]
+    },
+    {
+        "task": "Google the capital of Argentina",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Argentina\" into the search bar",
+            "Press Enter or tap the search icon",
+            "View the result"
+        ]
+    },
+    {
+        "task": "Google the capital of the United States",
+        "subgoals": [
+            "Open a web browser",
+            "In the search bar, type \"capital of the United States\"",
+            "Press the Enter key or tap the Search icon"
+        ]
+    },
+    {
+        "task": "What's the news in Argentina?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Argentina\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to Sydney",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the departure city field",
+            "Enter \"Sydney\" in the destination city field",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach umbrella?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy beach umbrellas\"",
+            "Select a relevant link from the search results",
+            "Browse the available options and choose a beach umbrella"
+        ]
+    },
+    {
+        "task": "Show me some nice wallpapers for my computer",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"computer wallpapers\"",
+            "Browse the image results from various websites offering wallpapers"
+        ]
+    },
+    {
+        "task": "Open a new incognito tab in the chrome app",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner of the screen",
+            "Tap \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "Set an alarm for 7pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Click the \"+\" button to add a new alarm",
+            "Set the time to 7:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Search for flights from Barcelona to Boston",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Barcelona\" in the departure city field",
+            "Enter \"Boston\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Miami?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Miami\"",
+            "Click on a relevant link from the search results",
+            "Refine the search on the chosen website if necessary",
+            "Browse the listings and note the rental prices"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Los Angeles?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Los Angeles\"",
+            "Review the search results, considering ratings, reviews, and cuisine types",
+            "Select a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "Google the capital of Panama",
+        "subgoals": [
+            "Open the Google Chrome app",
+            "Tap the search bar",
+            "Type \"capital of Panama\"",
+            "Press the Enter/Search key"
+        ]
+    },
+    {
+        "task": "Search for a new eyeshadow",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells eyeshadow",
+            "Use the search bar on that website to search for \"eyeshadow\"",
+            "Browse the search results and select an eyeshadow that you like",
+            "View the product details of the selected eyeshadow"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Washington DC?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Washington, DC\" in the location search field",
+            "Specify \"3 bedrooms\" in the relevant search filter",
+            "Click the search button",
+            "Review the listed apartment rental prices"
+        ]
+    },
+    {
+        "task": "What's the weather like in London?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that provides weather information",
+            "Search for \"weather in London\"",
+            "Review the results displayed to find the current weather in London"
+        ]
+    },
+    {
+        "task": "What's the news in Chile?",
+        "subgoals": [
+            "Open a browser",
+            "Enter a search query like \"news in Chile\" or \"Chilean news\" into the search bar",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Chile"
+        ]
+    },
+    {
+        "task": "Play the latest video from the BBC",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to the BBC website",
+            "Locate the News section",
+            "Find the latest video published by the BBC",
+            "Click on the latest video to play it"
+        ]
+    },
+    {
+        "task": "Check the settings for the Twitter app",
+        "subgoals": [
+            "Open the settings app",
+            "Scroll through the list of apps until you find \"Twitter\"",
+            "Select the Twitter entry",
+            "This will open the app settings for Twitter"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Verizon Store?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"Verizon Store\"",
+            "Select the nearest store from the search results",
+            "Request directions to the chosen store"
+        ]
+    },
+    {
+        "task": "Open Reddit",
+        "subgoals": [
+            "If the Reddit app is already installed and visible on the home screen, simply tap the Reddit icon to open it",
+            "If the Reddit app is installed but not on the home screen, swipe up from the bottom of the screen to access the app drawer and locate the Reddit app icon",
+            "If the Reddit app is not installed, open the Google Play Store, search for \"Reddit\", and install the app"
+        ]
+    },
+    {
+        "task": "Search for a new mascara on Sephora",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Sephora website",
+            "Use the search bar to search for \"mascara\"",
+            "Filter the search results to show \"new\" mascaras",
+            "Browse the results to find a desired mascara"
+        ]
+    },
+    {
+        "task": "Search for top rated sushi restaurants on Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "In the search bar at the top, enter \"top rated sushi restaurants\"",
+            "Press the \"Search\" button or \"Enter\" key",
+            "Review the results which will display top-rated sushi restaurants in the area"
+        ]
+    },
+    {
+        "task": "What time is it in Moscow?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"what time is it in Moscow\"",
+            "View the result displayed directly in the search results"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent New York\"",
+            "Browse the search results for relevant websites like real estate listing sites or local real estate agencies",
+            "Click on a promising link",
+            "Navigate the website to find 3-bedroom apartment listings in New York",
+            "Review the listed prices to get an idea of the rental costs"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Denver?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Denver\" in the location search field",
+            "Specify \"2 bedroom\" in the relevant search filter",
+            "Initiate the search",
+            "Review the displayed search results, which should show rental prices for 2-bedroom apartments in Denver"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Play Music app",
+        "subgoals": [
+            "Open the Settings app",
+            "Scroll down and tap on \"Apps & notifications\"",
+            "Tap on \"See all <number> apps\"",
+            "Find and tap on \"Google Play Music\" in the app list",
+            "On the app info screen, the settings will be displayed"
+        ]
+    },
+    {
+        "task": "What's on the menu at McDonalds?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the McDonald's website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "What's US dollar exchange rate against the British Pound?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"US dollar to British Pound exchange rate\"",
+            "Locate the current exchange rate displayed on a reliable source"
+        ]
+    },
+    {
+        "task": "What is the capital of Canada?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Canada?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the results page"
+        ]
+    },
+    {
+        "task": "What's on the menu at Panera?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Panera Bread website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Seattle?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Seattle\" as the location",
+            "Specify \"3 bedrooms\" as a search criteria",
+            "Review the search results, which should display 3-bedroom apartment rental prices in Seattle"
+        ]
+    },
+    {
+        "task": "Search for a new mascara",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells mascara",
+            "Use the search bar on that website to search for \"mascara\"",
+            "Browse the search results, potentially filtering by brand, price, type, etc",
+            "Select a mascara that you want to purchase"
+        ]
+    },
+    {
+        "task": "What is the capital of Spain?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Spain?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "What is the speed of a jet?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a jet\"",
+            "Select a relevant search result",
+            "Read the information provided on that page to find the speed of a jet"
+        ]
+    },
+    {
+        "task": "What's the news about the US dollar exchange rate?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"US dollar exchange rate news\"",
+            "Select a reputable news source from the search results",
+            "Read the relevant articles or watch news videos about the US dollar exchange rate"
+        ]
+    },
+    {
+        "task": "Install the Yelp app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Yelp\" in the search bar",
+            "Select the Yelp app from the search results",
+            "Click the \"Install\" button",
+            "Wait for the app to download and install"
+        ]
+    },
+    {
+        "task": "What is the capital of the United Kingdom?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"What is the capital of the United Kingdom?\""
+        ]
+    },
+    {
+        "task": "What's on my calendar for the rest of the month?",
+        "subgoals": [
+            "Locate and open the Calendar app",
+            "Navigate to the current month's view",
+            "Scroll through the calendar to view the remaining days of the month",
+            "Read and interpret the events listed for each day"
+        ]
+    },
+    {
+        "task": "Show me some nice wallpapers for my desktop",
+        "subgoals": [
+            "Open a web browser",
+            "Search for \"desktop wallpapers\" or a similar term",
+            "Browse through the image results on sites like Google Images, WallpaperCave, or Unsplash",
+            "Select a wallpaper you like",
+            "Download the chosen wallpaper image"
+        ]
+    },
+    {
+        "task": "Check the settings for the Amazon Music app",
+        "subgoals": [
+            "Locate the Amazon Music app",
+            "If not installed, open the app store and search for \"Amazon Music\"",
+            "Once located/installed, open the Amazon Music app",
+            "Navigate to the settings menu within the Amazon Music app",
+            "Browse/adjust the settings as needed"
+        ]
+    },
+    {
+        "task": "Install the Yahoo app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Yahoo\" in the search bar",
+            "Select the correct Yahoo app from the search results",
+            "Click the \"Install\" button",
+            " Accept any required permissions",
+            "Wait for the app to download and install",
+            "Open the app"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"San Francisco\" in the location search field",
+            "Specify \"2 bedrooms\" in the relevant filter or search field",
+            "Review the listed apartments and their rental prices"
+        ]
+    },
+    {
+        "task": "What's US dollar exchange rate against the South Korean Won?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"USD to KRW\" in the search bar",
+            "Review the search results, which should prominently display the current exchange rate"
+        ]
+    },
+    {
+        "task": "What's the top post on reddit?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website",
+            "If not already on the main feed showing \"Hot\" posts, navigate to it",
+            "Locate the topmost post"
+        ]
+    },
+    {
+        "task": "What is the speed of a plane?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a plane\"",
+            "Select a relevant search result that looks like it will provide the information",
+            "Read the information on the selected webpage to find the answer"
+        ]
+    },
+    {
+        "task": "Searchfor good French restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Enter \"good French restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results provided"
+        ]
+    },
+    {
+        "task": "How much does the HisenseTV cost?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Hisense TVs",
+            "Browse or search the website for the specific Hisense TV model you are interested in",
+            "Locate the price of the TV on its product page"
+        ]
+    },
+    {
+        "task": "Search for a good pizza place on Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "Type \"pizza\" into the search bar",
+            "Review the search results, looking at ratings, reviews, and photos to determine a \"good\" pizza place",
+            "Select a pizza place that looks promising"
+        ]
+    },
+    {
+        "task": "Search for flights from Helsinki to Tokyo",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "In the flight search form, enter \"Helsinki\" as the departure city",
+            "Enter \"Tokyo\" as the destination city",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What are the best selling refrigerators at Home Depot?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Home Depot website",
+            "Navigate to the \"Appliances\" section of the website",
+            "Navigate to the \"Refrigerators\" section",
+            "Look for a \"Best Sellers,\" \"Most Popular,\" or similar section on the Refrigerators page"
+        ]
+    },
+    {
+        "task": "What is the speed of a tiger?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a tiger\"",
+            "Select a relevant search result",
+            "Locate the information about the tiger's speed on the selected page"
+        ]
+    },
+    {
+        "task": "Install the Pandora app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Pandora\" in the search bar",
+            "Select the official Pandora app from the search results",
+            "Click the \"Install\" button",
+            "Wait for the app to download and install"
+        ]
+    },
+    {
+        "task": "Open the SMS app",
+        "subgoals": [
+            "Locate the SMS app icon on the home screen",
+            "Tap the SMS app icon"
+        ]
+    },
+    {
+        "task": "What's the price of the Vizio TV?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Vizio TVs",
+            "Search for the specific Vizio TV model you are interested in",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent New York\"",
+            "Click on a relevant link from the search results",
+            "Review the listed prices for 2-bedroom apartments in New York"
+        ]
+    },
+    {
+        "task": "What's the price of the Samsung TV?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that sells Samsung TVs",
+            "Search for the specific Samsung TV model you're interested in",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "Find the nearest electronics store that's open today",
+        "subgoals": [
+            "Open a maps application",
+            "Grant the maps application location permissions if not already granted",
+            "Search for \"electronics store\"",
+            "Filter results to show only open stores",
+            "Review the results displayed on the map, focusing on the closest ones to your current location"
+        ]
+    },
+    {
+        "task": "Check the settings for the Amazon Prime Video app",
+        "subgoals": [
+            "Locate the Amazon Prime Video app icon",
+            "Open the Amazon Prime Video app",
+            "Navigate to the settings menu within the app",
+            "Browse/Interact with the desired settings options within the app"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach tote?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy a nice beach tote\"",
+            "Click on one of the resulting links to a store or marketplace",
+            "Browse the selection of beach totes"
+        ]
+    },
+    {
+        "task": "What's the news in Paraguay?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"News in Paraguay\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "Search for a new foundation (skincare) product",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells skincare products",
+            "Search for \"foundation\" within the website",
+            "Filter the search results if needed",
+            "Browse through the results and select a foundation product that you want to learn more about",
+            "Review the product details, such as ingredients, shade range, and reviews"
+        ]
+    },
+    {
+        "task": "Who is the president of the United States?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"Who is the president of the United States?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "What time is it in Sydney?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"what time is it in Sydney\"",
+            "Locate and read the current time for Sydney displayed in the search results"
+        ]
+    },
+    {
+        "task": "Search for good Italian restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Type \"good Italian restaurants\" into the search bar",
+            "Press enter or tap the search icon",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Open the calendar and show me this week's events?",
+        "subgoals": [
+            "Locate and open the Calendar app",
+            "Once the Calendar app is open, ensure the view is set to display the current week's events",
+            "If the current week isn't being displayed, navigate to the correct week"
+        ]
+    },
+    {
+        "task": "How big is the universe?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"How big is the universe?\"",
+            "Select a reputable source from the search results",
+            "Read the information provided to understand the current scientific understanding of the universe's size"
+        ]
+    },
+    {
+        "task": "Search for flights from Mexico city to Sydney",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Mexico City\" in the \"From\" field",
+            "Enter \"Sydney\" in the \"To\" field",
+            "Select the desired departure and return dates",
+            "Click the \"Search\" or equivalent button"
+        ]
+    },
+    {
+        "task": "Search for flights from Helsinki to Seoul",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a flight search website",
+            "Enter \"Helsinki\" as the departure city",
+            "Enter \"Seoul\" as the destination city",
+            "Specify the desired travel dates",
+            "Click the \"Search\" or equivalent button"
+        ]
+    },
+    {
+        "task": "Search for top rated burger restaurants on Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "In the search bar at the top of the Maps app, type \"top rated burger restaurants\"",
+            "Press the \"Enter\" or \"Search\" button",
+            "Review the results displayed on the map and in the list below"
+        ]
+    },
+    {
+        "task": "Install the Facebook app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Use the search bar within the Play Store to search for \"Facebook\"",
+            "Locate the Facebook app in the search results",
+            "Tap the \"Install\" button",
+            "Wait for the installation to complete"
+        ]
+    },
+    {
+        "task": "How big is the earth?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"size of earth\"",
+            "Select a search result that looks like it will provide information on the size of the earth",
+            "Read the information on the page to find the size of the earth"
+        ]
+    },
+    {
+        "task": "What's the price of the Sony TV?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Sony TVs",
+            "Browse or search the website for the specific Sony TV model you are interested in",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "Open a new private tab in Chrome",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the top right corner of the screen",
+            "Tap \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "What's on the menu at Denny's?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Denny's website",
+            "Find and select the \"Menu\" section of the website"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest electronics store?",
+        "subgoals": [
+            "Open a maps application",
+            "Type \"electronics store\" in the search bar",
+            "Select the nearest store from the search results",
+            "Select \"Directions\"",
+            "Choose your preferred mode of transportation",
+            "Follow the provided directions to the store"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Boston?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Boston\"",
+            "Browse the results from various real estate websites like Zillow, Apartments",
+            "Refine the search if needed",
+            "Review the rental prices listed for 3-bedroom apartments"
+        ]
+    },
+    {
+        "task": "What is the speed of sound?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"speed of sound\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results, which should provide the speed of sound"
+        ]
+    },
+    {
+        "task": "Open the calculator",
+        "subgoals": [
+            "Access the app drawer",
+            "Locate the calculator app icon",
+            "Tap the calculator app icon to open it"
+        ]
+    },
+    {
+        "task": "What's the price of the 1000-Watt EGO Power+ Snow Blower?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"1000-Watt EGO Power+ Snow Blower\"",
+            "Select a relevant shopping result",
+            "Locate the price of the snow blower on the product page"
+        ]
+    },
+    {
+        "task": "Search for good Indian restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Type \"good Indian restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results to find suitable options"
+        ]
+    },
+    {
+        "task": "What's the latest news in space science?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in space science\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles on the chosen website to find the latest news"
+        ]
+    },
+    {
+        "task": "Install the Spotify app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Spotify\" in the search bar at the top of the Play Store",
+            "Select the Spotify app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install",
+            "Open the app"
+        ]
+    },
+    {
+        "task": "Open a new Chrome incognito window",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner of the screen",
+            "Select \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Chicago?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Chicago\"",
+            "Select a reputable website from the search results",
+            "Browse listings and filter by the number of bedrooms",
+            "Review the rental prices displayed for the filtered results"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Philadelphia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Philadelphia\"",
+            "Browse the search results for a restaurant that appeals to you based on reviews, cuisine, etc"
+        ]
+    },
+    {
+        "task": "What's the weather like in Chicago?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Chicago\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the results provided by the search engine"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Portland?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a search engine",
+            "Search for \"good restaurants in Portland\"",
+            "Browse the search results for promising options",
+            "Optionally, narrow down your search based on specific criteria",
+            "Select a restaurant that appears to meet your needs"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in San Francisco\"",
+            "Browse the results, perhaps filtering by cuisine, price, or location",
+            "Select a restaurant that looks appealing based on reviews, menus, etc"
+        ]
+    },
+    {
+        "task": "Install the Weather app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Weather\" in the search bar",
+            "Locate the desired weather app in the search results",
+            "Tap the \"Install\" button on the app's page",
+            "Wait for the app to download and install",
+            " Open the app"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to Paris",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the \"From\" field",
+            "Enter \"Paris\" in the \"To\" field",
+            "Select desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Search for hotels in Las Vegas",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Las Vegas\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Play the latest video from the Wall Street Journal",
+        "subgoals": [
+            "Open the YouTube app",
+            "Search for \"Wall Street Journal\"",
+            "Select the official Wall Street Journal channel",
+            "Locate the \"Videos\" tab",
+            "Select the latest uploaded video to play it"
+        ]
+    },
+    {
+        "task": "Search for flights from Zurich to Buenos aires",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Zurich\" in the departure airport field",
+            "Enter \"Buenos Aires\" in the destination airport field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the news in China?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in China\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to China"
+        ]
+    },
+    {
+        "task": "Install the Uber app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Use the search bar at the top of the screen to search for \"Uber\"",
+            "Tap on the \"Uber\" app in the search results",
+            "Tap on the \"Install\" button",
+            "Wait for the app to download and install",
+            "Tap on the \"Open\" button to launch the Uber app"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach tent?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy a nice beach tent\"",
+            "Select a relevant link from the search results",
+            "Browse the options and select a beach tent that meets your criteria"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Play Books app",
+        "subgoals": [
+            "Open the app drawer",
+            "Locate the Google Play Books app icon",
+            "Long-press the Google Play Books app icon",
+            "Tap \"App info\" in the menu that appears",
+            "Scroll through the App info page to view the settings"
+        ]
+    },
+    {
+        "task": "What's the latest technology news?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a reputable technology news website",
+            "Browse the headlines and select an article that interests you"
+        ]
+    },
+    {
+        "task": "What's the news in Ecuador?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Ecuador\"",
+            "Select a news source from the search results"
+        ]
+    },
+    {
+        "task": "Search for a new skincare product",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that sells skincare products",
+            "Browse or search for \"skincare products\"",
+            "Review the search results to find a *new* skincare product"
+        ]
+    },
+    {
+        "task": "What's on my calendar for the rest of the week?",
+        "subgoals": [
+            "Locate and open the Calendar app",
+            "Navigate to the current week view within the calendar app",
+            "Review any entries listed for the remaining days of the week"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Chrome app",
+        "subgoals": [
+            "Locate the Google Chrome app icon on the home screen",
+            "Long-press the Google Chrome app icon",
+            "Tap \"App info\" in the menu that appears",
+            "Scroll through the App info page to find and review the desired settings"
+        ]
+    },
+    {
+        "task": "Open the contacts",
+        "subgoals": [
+            "Locate the Contacts app icon",
+            "Tap the Contacts app icon to open it"
+        ]
+    },
+    {
+        "task": "Google the capital of Paraguay",
+        "subgoals": [
+            "Open the Google Chrome app",
+            "Tap the search bar",
+            "Type \"capital of Paraguay\"",
+            "Press the Enter key",
+            "Read the search results displayed to find the answer"
+        ]
+    },
+    {
+        "task": "Search for flights from Mexico city to Boston",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Mexico City\" as the departure city",
+            "Enter \"Boston\" as the destination city",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Search for top rated seafood restaurants on Google Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "Tap the search bar at the top of the screen",
+            "Type in \"top rated seafood restaurants\"",
+            "Press \"Enter\" or tap the search icon",
+            "Google Maps will display a list of seafood restaurants with ratings and reviews"
+        ]
+    },
+    {
+        "task": "How much does a3 bedroom apartment rent for in Portland?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Portland\"",
+            "Browse the results from various apartment rental websites or real estate agencies",
+            "Compare prices from different listings to get an idea of the average rent"
+        ]
+    },
+    {
+        "task": "What's the news about the US economy?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"US economy news\"",
+            "Select a reputable news source from the search results",
+            "Read the relevant articles"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach sandals?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy nice beach sandals\"",
+            "Review the search results, which might include online retailers, local stores, or articles about beach sandals",
+            "Choose a retailer or store based on reviews, price, and selection",
+            "If purchasing online, navigate to the chosen website and browse their selection of beach sandals",
+            "Select the desired sandals and proceed to checkout"
+        ]
+    },
+    {
+        "task": "Search for a new eyeliner",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells eyeliner",
+            "Use the search bar on that website to search for \"eyeliner\"",
+            "Browse the search results and select an eyeliner that fits your needs"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameXplain?",
+        "subgoals": [
+            "Open the YouTube app",
+            "Search for \"GameXplain\"",
+            "Select the GameXplain channel",
+            "Locate the \"Videos\" tab",
+            "Select the latest/most recent upload"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach chair?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy beach chairs\"",
+            "Browse the search results for relevant stores",
+            "Click on a promising link to visit a store's website",
+            "Browse the beach chair selection on the website",
+            "Once you've found a chair you like, proceed to purchase it on the website"
+        ]
+    },
+    {
+        "task": "What's the news about the US dollar?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"US dollar news\"",
+            "Select a reputable news source from the search results",
+            "Read the relevant articles"
+        ]
+    },
+    {
+        "task": "Play the new Katy Perry video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"Katy Perry new video\" or a similar search query",
+            "Select the correct video from the search results",
+            "Tap the play button"
+        ]
+    },
+    {
+        "task": "Open a new incognito window in Chrome",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner of the screen",
+            "Tap \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "Search for hotels in Sydney",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Sydney\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results to find a suitable hotel"
+        ]
+    },
+    {
+        "task": "How big is the moon?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"size of the moon\"",
+            "Select a credible source from the search results",
+            "Locate the information about the moon's diameter/radius/volume within the chosen source"
+        ]
+    },
+    {
+        "task": "What's on the menu at Taco Bell?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Taco Bell website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "What is the capital of France?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of France?\" into the search bar",
+            "Press \"Enter\" or the search button",
+            "Locate the answer on the search results page"
+        ]
+    },
+    {
+        "task": "Play the latest video from the Washington Post",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to the Washington Post website",
+            "Locate the Video section of the website",
+            "Identify the latest video",
+            "Click on the latest video to play it"
+        ]
+    },
+    {
+        "task": "Search for the best pizza restaurants on Maps",
+        "subgoals": [
+            "Locate and open the Google Maps app",
+            "In the search bar at the top of the Maps app, type \"best pizza restaurants\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the displayed results, which should include a list of pizza restaurants and their locations on the map"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest McDonalds?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"McDonald's\"",
+            "Select the nearest McDonald's from the search results",
+            "Get directions to the selected McDonald's",
+            "Follow the provided directions to the destination"
+        ]
+    },
+    {
+        "task": "Search for hotels in New York",
+        "subgoals": [
+            "Open a browser",
+            "Go to a hotel booking website or a search engine like Google",
+            "If using a hotel booking website, enter \"New York\" in the search bar designated for location",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the news in the Bahamas?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Bahamas news\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to current events in the Bahamas"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameSpot Reviews?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to YouTube",
+            "Search for \"GameSpot Reviews\"",
+            "Locate the GameSpot Reviews channel",
+            "Sort their videos by upload date",
+            "Select the first video in the list"
+        ]
+    },
+    {
+        "task": "What's the news in Singapore?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Singapore news\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Singapore"
+        ]
+    },
+    {
+        "task": "Check my email",
+        "subgoals": [
+            "Locate and tap the Email app icon",
+            "If necessary, log into your email account",
+            "Review your inbox for new emails"
+        ]
+    },
+    {
+        "task": "Check the settings for the Spotify app",
+        "subgoals": [
+            "Locate the Spotify app icon",
+            "Long-press the Spotify app icon",
+            "Select \"App info\" or a similar option from the menu that appears",
+            "Scroll through the app info page to locate and review the desired settings"
+        ]
+    },
+    {
+        "task": "How much does the new iPad cost on eBay?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the eBay website",
+            "Use the search bar to search for \"new iPad\"",
+            "Browse the search results to find the desired iPad model",
+            "Check the price listed for the selected iPad"
+        ]
+    },
+    {
+        "task": "What's the weather like in Beijing?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Beijing\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the results provided by the search engine"
+        ]
+    },
+    {
+        "task": "Turn on notifications for the Google Maps app",
+        "subgoals": [
+            "Locate the Google Maps app icon",
+            "Depending on the phone's setup, either:",
+            "Long-press the Google Maps app icon",
+            "Tap \"App info\" or the \"i\" icon in the pop-up menu",
+            "Tap on \"Notifications",
+            "Toggle the notification setting to \"On\" or customize the notification types as desired"
+        ]
+    },
+    {
+        "task": "Open the camera",
+        "subgoals": [
+            "Locate the camera app icon",
+            "Depending on the device setup, either swipe up from the bottom of the screen or tap the app drawer icon to access all installed apps",
+            "Locate the camera app icon",
+            "Tap the camera app icon to open the camera"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Best Buy?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"Best Buy\"",
+            "Select the nearest Best Buy location from the search results",
+            "Request directions to the chosen Best Buy location",
+            "Follow the provided directions to reach the destination"
+        ]
+    },
+    {
+        "task": "What is the speed of a train?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a train\"",
+            "Click on a relevant search result that provides information about train speeds",
+            "Read the information to determine the speed of a train"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Nordstrom?",
+        "subgoals": [
+            "Open Google Maps",
+            "Type \"Nordstrom\" in the search bar",
+            "Press \"Enter\" or select the magnifying glass icon",
+            "Select the nearest Nordstrom location from the search results",
+            "Press \"Directions\"",
+            "Choose your preferred mode of transportation",
+            "Follow the provided directions to the Nordstrom location"
+        ]
+    },
+    {
+        "task": "How big is the sun?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"how big is the sun\"",
+            "Select a relevant search result",
+            "Read the information presented to determine the size of the sun"
+        ]
+    },
+    {
+        "task": "Who is the president of France?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"president of France\" into the search bar",
+            "Select a reliable source from the search results",
+            "Locate the name of the current president on the chosen website"
+        ]
+    },
+    {
+        "task": "What's the price of the 2x4x8 boards at Home Depot?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Home Depot website",
+            "Search for \"2x4x8 lumber\" or a similar term",
+            "Locate the specific product listing for 2x4x8 boards",
+            "Find the price listed on the product page"
+        ]
+    },
+    {
+        "task": "What's the time in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"time in San Francisco\"",
+            "The result will be displayed at the top of the search results"
+        ]
+    },
+    {
+        "task": "What's the weather like in Moscow?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that provides weather information",
+            "Search for \"weather in Moscow\"",
+            "Review the presented weather information"
+        ]
+    },
+    {
+        "task": "Check the settings for the Instagram app",
+        "subgoals": [
+            "Locate the Instagram app icon",
+            "Long-press the Instagram app icon",
+            "Tap \"App info\"",
+            "This will open the Instagram app's settings page"
+        ]
+    },
+    {
+        "task": "What's the weather like in Mexico City?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Mexico City\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the displayed weather information"
+        ]
+    },
+    {
+        "task": "What time is it in London?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"what time is it in London\"",
+            "Open a clock/world clock app",
+            "Find the time for London"
+        ]
+    },
+    {
+        "task": "What's on the menu at In-N-Out?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"In-N-Out menu\"",
+            "Select a relevant search result",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "What's the news in Barbados?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Barbados news\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "Open the calculator app",
+        "subgoals": [
+            "Access the app drawer",
+            "Locate the calculator app icon",
+            "Tap the calculator app icon to open it"
+        ]
+    },
+    {
+        "task": "What's the news in South Korea?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"South Korea news\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to South Korea"
+        ]
+    },
+    {
+        "task": "What's the weather like in Rio de Janeiro?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Rio de Janeiro\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the results displayed, which should prominently feature the current weather in Rio de Janeiro"
+        ]
+    },
+    {
+        "task": "What is the speed of a bicycle?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a bicycle\"",
+            "Select a relevant search result that is likely to provide the answer",
+            "Read the information on the page to find the answer"
+        ]
+    },
+    {
+        "task": "What time is it in Beijing?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"time in Beijing\"",
+            "The search results should display the current time in Beijing"
+        ]
+    },
+    {
+        "task": "What's the news this afternoon?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a news website",
+            "Browse or search for news articles published this afternoon",
+            "Open a dedicated news app",
+            "Browse or search for news articles from this afternoon within the app"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Seattle?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Seattle\"",
+            "Browse the results from apartment rental websites to find average rental prices"
+        ]
+    },
+    {
+        "task": "Check the settings for the Lyft app",
+        "subgoals": [
+            "Locate the Lyft app icon",
+            "If the Lyft app is not on the home screen, you may need to swipe left or right to find it, or access it through the app drawer",
+            "Once located, tap the Lyft app icon to open it",
+            "Once the Lyft app is open, locate the settings menu",
+            "Tap the settings icon to access the app's settings"
+        ]
+    },
+    {
+        "task": "What's a good restaurant near me?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants near me\"",
+            "Review the presented options from the search results"
+        ]
+    },
+    {
+        "task": "What's the price of the new iPhone on eBay?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the eBay website",
+            "Search for \"new iPhone\"",
+            "Browse the listings to determine the price"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Washington DC?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Washington DC\"",
+            "Click on a relevant link from the search results",
+            "Refine the search on the chosen website using filters like \"2 bedrooms\" and \"Washington, DC\"",
+            "Browse the listings to get an idea of rent prices"
+        ]
+    },
+    {
+        "task": "What's US dollar exchange rateagainst the Mexican Peso?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"US dollar to Mexican Peso exchange rate\"",
+            "View the exchange rate displayed in the search results"
+        ]
+    },
+    {
+        "task": "What's the price of the Galaxy phone on eBay?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the eBay website",
+            "Search for \"Galaxy phone\"",
+            "Browse the search results to find the specific Galaxy phone you are interested in",
+            "Locate the price of the selected Galaxy phone"
+        ]
+    },
+    {
+        "task": "What's the news in Suriname?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Suriname news\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Suriname"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest IKEA?",
+        "subgoals": [
+            "Open Google Maps",
+            "Search for \"IKEA\"",
+            "Select the nearest IKEA location from the search results",
+            "Press \"Directions\"",
+            "Choose your preferred mode of transportation",
+            "Follow the provided directions to the IKEA location"
+        ]
+    },
+    {
+        "task": "How much does the new iPad cost?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Apple website",
+            "Navigate to the iPad section of the website",
+            "Locate the newest iPad model",
+            "Find the price of the new iPad"
+        ]
+    },
+    {
+        "task": "Open the Google play store app",
+        "subgoals": [
+            "Locate the Google Play Store app icon",
+            "Tap the Google Play Store icon to open the app"
+        ]
+    },
+    {
+        "task": "Check the settings for the Amazon Shopping app",
+        "subgoals": [
+            "Locate the Amazon Shopping app icon",
+            "Long-press on the Amazon Shopping app icon",
+            "Tap on \"App info\" in the context menu that appears",
+            "This will open the app settings page for the Amazon Shopping app"
+        ]
+    },
+    {
+        "task": "What's the news in the Philippines?",
+        "subgoals": [
+            "Open a web browser",
+            "Search for \"News in the Philippines\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to the Philippines"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Miami?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Miami\"",
+            "Browse the search results for a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "Search for hotels in San Francisco",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "If using a dedicated hotel booking site, enter \"San Francisco\" in the search bar",
+            "Click the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Set an alarm for 6am",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Click the \"+\" button to add a new alarm",
+            "Set the time to 6:00 AM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Open the settings",
+        "subgoals": [
+            "Swipe down from the top of the screen to reveal the notification shade",
+            "Tap the settings icon in the notification shade"
+        ]
+    },
+    {
+        "task": "How big is a dinosaur?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"How big is a dinosaur?\"",
+            "Click on a relevant search result",
+            "Read the information on the website to determine how big a dinosaur is"
+        ]
+    },
+    {
+        "task": "Search for good Chinese restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Type \"good Chinese restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results, which may include restaurant listings on Google Maps, review sites like Yelp, and dedicated restaurant finder websites"
+        ]
+    },
+    {
+        "task": "What is the capital of Japan?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Japan?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the results page"
+        ]
+    },
+    {
+        "task": "What's the top post on reddit right now?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website",
+            "Locate and click on the \"Hot\" or \"Popular\" tab or section",
+            "Open a Reddit app if one is installed",
+            "Locate and click on the \"Hot\" or \"Popular\" tab or section"
+        ]
+    },
+    {
+        "task": "Search for good Italian restaurants on Maps",
+        "subgoals": [
+            "Locate and open the Google Maps app",
+            "In the search bar at the top of Maps, type \"good Italian restaurants\"",
+            "Press \"Enter\" or tap the search icon",
+            "Google Maps will then display a list of Italian restaurants considered \"good\" based on ratings, reviews, and other factors"
+        ]
+    },
+    {
+        "task": "What's the news in Pakistan?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Pakistan\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Pakistan"
+        ]
+    },
+    {
+        "task": "What is the capital of Brazil?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Brazil?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "What's the news in Cambodia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Cambodia\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Cambodia"
+        ]
+    },
+    {
+        "task": "Google the capital of Bolivia",
+        "subgoals": [
+            "Open the Google Chrome app",
+            "Tap the Google search bar",
+            "Type \"capital of Bolivia\"",
+            "Press the Enter key on the keyboard"
+        ]
+    },
+    {
+        "task": "Search for a new blush",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells makeup",
+            "Use the search bar on that website to search for \"blush\"",
+            "Browse the search results to find a blush you like",
+            "Select the blush you want to purchase"
+        ]
+    },
+    {
+        "task": "What is the speed of light?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"speed of light\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed in the search results"
+        ]
+    },
+    {
+        "task": "What's on the menu at Domino's?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Domino's website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "What's the top post on reddit today?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website",
+            "If not already on the main/home page, navigate to it",
+            "Locate the top post",
+            "View the post"
+        ]
+    },
+    {
+        "task": "How much does the TCL TV cost?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that sells TCL TVs",
+            "Search for \"TCL TV\" on the website",
+            "Browse the search results and select a specific TCL TV model",
+            "Locate the price of the selected TCL TV on its product page"
+        ]
+    },
+    {
+        "task": "Google the capital of Uruguay",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Uruguay\" into the search bar",
+            "Press the Enter/Search key",
+            "The answer will be displayed prominently"
+        ]
+    },
+    {
+        "task": "Search for hotels in Buenos aires",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or use a search engine like Google",
+            "If using a search engine, type \"hotels in Buenos Aires\" into the search bar and press enter",
+            "If using a booking website, enter \"Buenos Aires\" in the destination field and click search",
+            "Browse the results to find a suitable hotel"
+        ]
+    },
+    {
+        "task": "Search for flights from Sydney to Zurich",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Sydney\" in the departure city field",
+            "Enter \"Zurich\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What are the best selling refrigerators at Lowes?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Lowe's website",
+            "Navigate to the refrigerators section",
+            "Look for an indication of \"best selling\" or \"top rated\" refrigerators"
+        ]
+    },
+    {
+        "task": "Search for hotels in Orlando",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "If using a search engine, enter \"hotels in Orlando\" in the search bar",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "What is the capital of Germany?",
+        "subgoals": [
+            "Open a browser",
+            "In the search bar, type \"What is the capital of Germany?\"",
+            "Press \"Enter\" or tap the search icon",
+            "The answer should be prominently displayed in the search results"
+        ]
+    },
+    {
+        "task": "Open a new window in the chrome app",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots icon in the top right corner of the Chrome app",
+            "Tap \"New tab\""
+        ]
+    },
+    {
+        "task": "Open a new Chrome tab",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the tab switcher button",
+            "Tap the new tab button"
+        ]
+    },
+    {
+        "task": "Search for flights from Barcelona to Mexico city",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "In the \"From\" field, enter \"Barcelona\"",
+            "In the \"To\" field, enter \"Mexico City\"",
+            "Select the desired departure and return dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Atlanta?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Atlanta\"",
+            "Browse the search results for a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "Google the capital of Chile",
+        "subgoals": [
+            "Open the Chrome browser",
+            "Tap the Google search bar",
+            "Type \"capital of Chile\"",
+            "Press the Enter/Search key on the keyboard"
+        ]
+    },
+    {
+        "task": "Play the new Beyonce video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap on the search bar",
+            "Type \"new Beyonce video\"",
+            "Tap the search button",
+            "Select the first video from the search results"
+        ]
+    },
+    {
+        "task": "What's on the menu at IHOP?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the IHOP website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "Search for flights from Buenos aires to Seoul",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Buenos Aires\" in the departure city field",
+            "Enter \"Seoul\" in the destination city field",
+            "Select desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Open a new tab in the chrome app",
+        "subgoals": [
+            "Open the Chrome app",
+            "Click the tab switcher button",
+            "Click the new tab button"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Austin?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Austin, TX\" in the location search bar",
+            "Enter \"3 bedrooms\"",
+            "Search/filter the listings",
+            "Observe the rental prices displayed for the 3-bedroom apartments in Austin"
+        ]
+    },
+    {
+        "task": "What is the capital of India?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"What is the capital of India?\""
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Los Angeles?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Los Angeles\" in the location search field",
+            "Specify \"3 bedrooms\" in the relevant filter options",
+            "Search/apply filters",
+            "Review the listed apartment rental prices"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Home Depot?",
+        "subgoals": [
+            "Open Google Maps",
+            "Search for \"Home Depot\"",
+            "Select the nearest location from the results list",
+            "Tap on \"Directions\"",
+            "Choose your preferred mode of transportation",
+            "Follow the provided navigation instructions"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Play Movies app",
+        "subgoals": [
+            "Open the Settings app",
+            "Scroll down and tap on \"Apps & notifications\"",
+            "Tap on \"See all X apps\"",
+            "Find and tap on \"Google Play Movies & TV\"",
+            "On the app info page, you will find the app settings"
+        ]
+    },
+    {
+        "task": "Search for hotels in NYC",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "If using a hotel booking website, enter \"NYC\" in the search bar designated for location",
+            "Click the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Set an alarm for 3pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab within the Clock app",
+            "Tap the \"+\" button to add a new alarm",
+            "Set the time to 3:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Search for good Japanese restaurants",
+        "subgoals": [
+            "Open a browser",
+            "Enter \"good Japanese restaurants\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results, which might include restaurant listings on Google Maps, reviews on Yelp or other platforms, and potentially dedicated restaurant websites"
+        ]
+    },
+    {
+        "task": "What's the news in Brunei?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Brunei news\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Brunei"
+        ]
+    },
+    {
+        "task": "Set an alarm for 11am",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab within the Clock app",
+            "Tap the \"+\" button to create a new alarm",
+            "Set the time to 11:00 AM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Install the eBay app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"eBay\" in the search bar",
+            "Select the official eBay app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the installation to complete"
+        ]
+    },
+    {
+        "task": "Google the capital of Canada",
+        "subgoals": [
+            "Open the Google Chrome app",
+            "Tap the search bar",
+            "Type \"capital of Canada\"",
+            "Tap the \"Enter\" or \"Search\" key on the keyboard"
+        ]
+    },
+    {
+        "task": "Search for flights from Tokyo to NYC",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Tokyo\" in the departure city field",
+            "Enter \"NYC\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the price of the TCL TV?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells TCL TVs",
+            "Search for \"TCL TV\" on the chosen website",
+            "Select a specific TCL TV model from the search results",
+            "Locate the price of the selected TCL TV model on its product page"
+        ]
+    },
+    {
+        "task": "What's the weather like in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "In the search bar, type \"weather in San Francisco\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the displayed weather information"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Starbucks?",
+        "subgoals": [
+            "Open Google Maps",
+            "Type \"Starbucks\" into the search bar",
+            "Select the nearest Starbucks from the search results",
+            "Click on \"Directions\"",
+            "Choose your preferred mode of transportation",
+            "Follow the directions provided by Google Maps to reach your destination"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Atlanta?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Atlanta, GA\" in the location search field",
+            "Enter \"3 bedrooms\"",
+            "Click the search button",
+            "Review the listed apartment rental prices"
+        ]
+    },
+    {
+        "task": "Check my gmail",
+        "subgoals": [
+            "Tap the Gmail app icon",
+            "If prompted, log in to your Gmail account"
+        ]
+    },
+    {
+        "task": "Play the new Ariana Grande video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"Ariana Grande new video\" or a similar search query",
+            "Select the correct video from the search results",
+            "Tap the play button"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Atlanta?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that lists apartment rentals",
+            "Enter \"Atlanta, GA\" in the location search field",
+            "Specify \"2 bedrooms\" in the relevant filter option",
+            "Click the search button",
+            "Review the displayed search results to get an idea of rental prices for 2-bedroom apartments in Atlanta"
+        ]
+    },
+    {
+        "task": "What's the price of the new iPhone",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells iPhones",
+            "Locate the newest iPhone model",
+            "Identify the price of the new iPhone on its product page"
+        ]
+    },
+    {
+        "task": "Find the nearest electronics store that's open",
+        "subgoals": [
+            "Open a maps application",
+            "Ensure location services are enabled to allow the app to determine your current location",
+            "Search for \"electronics store\"",
+            "Filter the results to show only open stores",
+            "Review the nearest results displayed on the map, comparing distance and potentially reading reviews",
+            "Select the desired store"
+        ]
+    },
+    {
+        "task": "Show me my notifications",
+        "subgoals": [
+            "Swipe down from the top of the screen",
+            "If there are any notifications, they will be listed here"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to San Diego",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"NYC\" in the departure city field",
+            "Enter \"San Diego\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the weather like in Seoul?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Seoul\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the weather information displayed"
+        ]
+    },
+    {
+        "task": "What's the news this morning?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a news website",
+            "Browse or search for morning news articles",
+            "Open a dedicated news app",
+            "Browse or search for morning news articles"
+        ]
+    },
+    {
+        "task": "Google the capital of Peru",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Peru\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "View the search results to find the answer"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Denver?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Denver\"",
+            "Browse the results and select one that looks appealing"
+        ]
+    },
+    {
+        "task": "Google the capital of Mexico",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Mexico\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "The answer will be displayed on the results page"
+        ]
+    },
+    {
+        "task": "Search for top rated sushi restaurant",
+        "subgoals": [
+            "Open a browser",
+            "Type \"top rated sushi restaurant\"  into the search bar",
+            "Press \"Enter\" or the search button",
+            "Review the search results which should include a list of sushi restaurants and their ratings"
+        ]
+    },
+    {
+        "task": "What's the weather like in Tokyo?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Tokyo\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the weather information displayed on the search results page"
+        ]
+    },
+    {
+        "task": "Search for top rated pizza restaurants on Maps",
+        "subgoals": [
+            "Locate and open the Google Maps app",
+            "In the search bar at the top, type \"pizza\"",
+            "Press \"Enter\" or tap the search icon",
+            "Scan the results and look for restaurants with high star ratings"
+        ]
+    },
+    {
+        "task": "Search for a new highlighter",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells highlighters",
+            "Use the search bar on that website to search for \"highlighter\"",
+            "Browse the search results to find a highlighter you like",
+            "Click on the chosen highlighter to view its product page",
+            " Select desired color/quantity/etc",
+            "Add the highlighter to your cart or purchase it directly, depending on the website"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest JCPenney?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"JCPenney\" within the maps application",
+            "Select the nearest JCPenney from the search results",
+            "Request directions to the chosen JCPenney"
+        ]
+    },
+    {
+        "task": "What's the news in Thailand?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Thailand\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "What's the news this month?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a news website or a news aggregator",
+            "Optionally, if the news website doesn't default to current news, select a section for this month's news",
+            "Browse the headlines and articles presented"
+        ]
+    },
+    {
+        "task": "Set an alarm for 8pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Tap the \"+\" button to add a new alarm",
+            "Set the alarm time to 8:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "What's the news this week?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a news website",
+            "Browse the headlines and articles presented on the news website"
+        ]
+    },
+    {
+        "task": "Search for a new hair product",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells hair products",
+            "Use the search bar on that website to search for \"hair product\" or a more specific type of product",
+            "Browse the search results to find a new hair product",
+            "Click on a product to view its details"
+        ]
+    },
+    {
+        "task": "What's the news in Taiwan?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a news website that covers Taiwan",
+            "Browse the headlines and articles related to Taiwan"
+        ]
+    },
+    {
+        "task": "How old is the earth?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"how old is the earth\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed in the search results"
+        ]
+    },
+    {
+        "task": "Check the settings for the Netflix app",
+        "subgoals": [
+            "Open the Settings app",
+            "Scroll down and tap on \"Apps & notifications",
+            "Tap on \"See all X apps\"",
+            "Find and tap on \"Netflix\" in the app list",
+            "Tap on \"Storage & cache\" or explore other available options within the Netflix app settings"
+        ]
+    },
+    {
+        "task": "What's the weather like in Johannesburg?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a weather website or use a search engine like Google",
+            "Search for \"weather in Johannesburg\"",
+            "View the results to see the current weather conditions in Johannesburg"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Burger King?",
+        "subgoals": [
+            "Open a maps application",
+            "Search for \"Burger King\"",
+            "Select the nearest Burger King from the search results",
+            "Request directions to the selected Burger King"
+        ]
+    },
+    {
+        "task": "What is the capital of Argentina?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Argentina?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "How big is a giraffe?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"how big is a giraffe\"",
+            "Select a relevant search result"
+        ]
+    },
+    {
+        "task": "Open a new Chrome private tab",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner",
+            "Select \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "What's the US dollar exchange rate against the Canadian Dollar?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"USD to CAD exchange rate\" into the search bar",
+            "View the current exchange rate displayed in the search results"
+        ]
+    },
+    {
+        "task": "Play the new Justin Bieber video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"Justin Bieber new video\" or a similar search query",
+            "Select the correct video from the search results",
+            "Tap the play button"
+        ]
+    },
+    {
+        "task": "How much does the Vizio TV cost?",
+        "subgoals": [
+            "Open a browser",
+            "Go to a website that sells Vizio TVs",
+            "Search for the specific Vizio TV model you are interested in",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "Set an alarm for 1pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Tap the \"+\" button to add a new alarm",
+            "Set the time to 1:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Austin?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Austin\"",
+            "Select a reputable website from the search results",
+            "Browse the listings and note the rental prices for 2-bedroom apartments in Austin"
+        ]
+    },
+    {
+        "task": "What's on the menu at Papa Murphy's?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Papa Murphy's website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "Search for flights from Buenos aires to Helsinki",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Buenos Aires\" in the departure city field",
+            "Enter \"Helsinki\" in the arrival city field",
+            "Specify any desired dates or travel options",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the latest news in space technology?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in space technology\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to space technology news"
+        ]
+    },
+    {
+        "task": "Find coffee shops on Maps",
+        "subgoals": [
+            "Open the Google Maps app",
+            "Type \"coffee shops\" in the search bar",
+            "Press enter or tap the search icon",
+            "Review the results displayed on the map"
+        ]
+    },
+    {
+        "task": "Install the Wikipedia app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Wikipedia\" in the search bar",
+            "Select the official Wikipedia app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install"
+        ]
+    },
+    {
+        "task": "What's the news in Nepal?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Nepal\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "Set an alarm for 2pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Tap the \"Alarm\" tab",
+            "Tap the \"+\" button to add a new alarm",
+            "Set the time to 2:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "What's the news this evening?",
+        "subgoals": [
+            "Open a browser application",
+            "Navigate to a news website or a news aggregator",
+            "Browse or search for news articles related to \"this evening\" or today's date"
+        ]
+    },
+    {
+        "task": "What's the weather like in Paris?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Paris\" in the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the presented weather information"
+        ]
+    },
+    {
+        "task": "What's the news in Uruguay?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Uruguay\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "What's on the menu at Subway?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Subway website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "How do I get to the nearest Sprint Store?",
+        "subgoals": [
+            "Open Google Maps",
+            "Search for \"Sprint Store\"",
+            "Select the nearest store from the displayed results",
+            "Get directions to the selected store"
+        ]
+    },
+    {
+        "task": "What time is it in Berlin?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"time in Berlin\"",
+            "The answer will be displayed in the search results"
+        ]
+    },
+    {
+        "task": "What time is it?",
+        "subgoals": [
+            "Look at the top of the screen",
+            "Read the time displayed"
+        ]
+    },
+    {
+        "task": "How big is a lion?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"how big is a lion\"",
+            "Select a relevant search result",
+            "Read the information on the size of a lion"
+        ]
+    },
+    {
+        "task": "Search for flights from Chicago to London",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Chicago\" in the departure city field",
+            "Enter \"London\" in the destination city field",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Search for hotels in Tokyo",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "If using a hotel booking site, enter \"Tokyo\" in the location search field",
+            "Review the search results and select a hotel or refine the search further as needed"
+        ]
+    },
+    {
+        "task": "What's the time in New York?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"what's the time in New York\""
+        ]
+    },
+    {
+        "task": "Open the clock app",
+        "subgoals": [
+            "Swipe up from the bottom of the screen to access the app drawer",
+            "Locate the Clock app icon",
+            "Tap the Clock app icon"
+        ]
+    },
+    {
+        "task": "Open the downloads",
+        "subgoals": [
+            "Swipe up from the bottom of the screen to access the app drawer",
+            "Locate the \"Downloads\" app icon",
+            "Tap the \"Downloads\" app icon to open it"
+        ]
+    },
+    {
+        "task": "What's the news in Puerto Rico?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Puerto Rico\"",
+            "Select a news source from the search results",
+            "Browse the headlines and articles related to Puerto Rico"
+        ]
+    },
+    {
+        "task": "What time is it in Tokyo?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"What time is it in Tokyo\"",
+            "Open a world clock app",
+            "Find Tokyo on the list of cities/time zones",
+            "Read the current time displayed for Tokyo"
+        ]
+    },
+    {
+        "task": "What's the news in Bangladesh?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Bangladesh\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Bangladesh"
+        ]
+    },
+    {
+        "task": "What time is it in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"time in San Francisco\""
+        ]
+    },
+    {
+        "task": "Search for hotels in London",
+        "subgoals": [
+            "Open a browser",
+            "Go to a hotel booking website",
+            "If using a dedicated hotel booking site, enter \"London\" in the search location field",
+            "Review the search results and refine the search if needed"
+        ]
+    },
+    {
+        "task": "Search for flights from Tokyo to Seoul",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "In the search form, enter \"Tokyo\" as the departure city",
+            "In the search form, enter \"Seoul\" as the arrival city",
+            "Specify the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's on the menu at Cheesecake Factory?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Cheesecake Factory website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "Search for flights from Boston to Zurich",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Boston\" in the departure city field",
+            "Enter \"Zurich\" in the arrival city field",
+            "Specify any desired dates for the flight",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What's the news in French Guiana?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"News in French Guiana\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to French Guiana"
+        ]
+    },
+    {
+        "task": "What's the speed of light?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"speed of light\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "How much does the Samsung TV cost?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Samsung TVs",
+            "Search for the specific Samsung TV model you are interested in on the chosen website",
+            "Locate the price of the TV on the product page"
+        ]
+    },
+    {
+        "task": "Open a new Chrome window",
+        "subgoals": [
+            "Tap the Chrome icon",
+            "Tap the Tabs button",
+            "Tap the + button to open a new tab/window"
+        ]
+    },
+    {
+        "task": "What's the news about the US?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a news website or use a search engine like Google",
+            "If using a search engine, type \"US news\" or a similar query into the search bar and press enter",
+            "Select a relevant news article from the search results or the news website's homepage"
+        ]
+    },
+    {
+        "task": "Open the music app",
+        "subgoals": [
+            "Locate the music app icon",
+            "Tap the music app icon to open it"
+        ]
+    },
+    {
+        "task": "Play the new Taylor Swift video on YouTube",
+        "subgoals": [
+            "Open the YouTube app",
+            "Tap the search bar",
+            "Type \"new Taylor Swift video\" into the search bar",
+            "Tap the search button",
+            "Select the first video in the search results"
+        ]
+    },
+    {
+        "task": "What's the latest news in planetary science?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in planetary science\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles on the website to find the latest news"
+        ]
+    },
+    {
+        "task": "What's the news in Laos?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Laos news\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "Set an alarm for 8am",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Click the \"+\" button to add a new alarm",
+            "Set the time to 8:00 AM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "Search for hotels in Seattle",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website",
+            "If a general search engine was used, click on a hotel booking site from the results",
+            "Enter \"Seattle\" in the search location field",
+            "Click the search button"
+        ]
+    },
+    {
+        "task": "What's on the menu at Five Guys?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Five Guys menu\"",
+            "Select a relevant search result",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "Google the capital of Brazil",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Brazil\" into the search bar",
+            "Press the \"Enter\" key or tap the search icon",
+            "The answer should be displayed prominently at the top of the search results"
+        ]
+    },
+    {
+        "task": "What's the news in Guyana?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Guyana\"",
+            "Select a reputable news source from the search results"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in San Jose?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in San Jose\"",
+            "Browse the search results for a restaurant that looks appealing",
+            "Optionally:  If a specific restaurant looks promising, search for more information about it"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in San Francisco?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent San Francisco\"",
+            "Browse the results, focusing on reputable real estate websites like Zillow, Apartments",
+            "Review listings and note the rental prices for 3-bedroom apartments in San Francisco"
+        ]
+    },
+    {
+        "task": "Play the latest video from the Huffington Post",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to the Huffington Post website",
+            "Locate the Videos section of the website",
+            "Identify the latest video",
+            "Click on the latest video to play it"
+        ]
+    },
+    {
+        "task": "Search for a new bronzer",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells makeup",
+            "Use the search bar on that website to search for \"bronzer\"",
+            "Browse the search results to find a bronzer that fits your needs",
+            "Select the desired bronzer to view the product details",
+            " If needed, select the specific shade and quantity",
+            "Add the selected bronzer to your cart or bag"
+        ]
+    },
+    {
+        "task": "Search for hotels in Zurich",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Zurich\"",
+            "Press \"Enter\" or the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Install the Google app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Google app\"",
+            "Select the Google app from the search results",
+            "Tap \"Install\"",
+            " Accept any required permissions",
+            "Wait for the installation to complete"
+        ]
+    },
+    {
+        "task": "What's US dollar exchange rate against the Chinese Yuan?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a website that provides currency exchange information",
+            "Search for \"USD to CNY\" or \"US Dollar to Chinese Yuan\" exchange rate",
+            "Locate the current exchange rate displayed on the website"
+        ]
+    },
+    {
+        "task": "Install the Starbucks app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Tap the search bar at the top",
+            "Type \"Starbucks\" into the search bar",
+            "Tap the \"Search\" button on the keyboard",
+            "Select the Starbucks app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install",
+            "Tap the \"Open\" button"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Dallas?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a search engine",
+            "Type \"good restaurants in Dallas\" into the search bar and press enter",
+            "Review the search results to find a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "What's on Reddit this week",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website",
+            "Review the current trending topics/posts, which are typically displayed on the homepage"
+        ]
+    },
+    {
+        "task": "Find a good burger place on Maps",
+        "subgoals": [
+            "Locate and open the Google Maps app",
+            "In the search bar at the top of the Maps app, type \"burger\" or \"burger restaurants\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results, looking at ratings, reviews, and photos to determine a \"good\" burger place",
+            "Select a burger restaurant that appeals to you"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Los Angeles?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Los Angeles\"",
+            "Browse the results from various apartment listing websites like Apartments",
+            "Compare prices and amenities across different listings"
+        ]
+    },
+    {
+        "task": "Set an alarmfor 5pm",
+        "subgoals": [
+            "Locate and open the Clock app",
+            "Navigate to the \"Alarm\" tab",
+            "Press the \"+\" button to add a new alarm",
+            "Set the time to 5:00 PM",
+            "Save the alarm"
+        ]
+    },
+    {
+        "task": "What's the news in Peru?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to a news website or search engine",
+            "Search for \"Peru news\" or \"news in Peru\"",
+            "Select a relevant news article from the search results"
+        ]
+    },
+    {
+        "task": "What is the capital of China?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of China?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "The answer should be displayed prominently on the search results page"
+        ]
+    },
+    {
+        "task": "What's the news in Indonesia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Indonesia\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Indonesia"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Houston?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Houston\"",
+            "Browse the results from various apartment rental websites or local real estate listings",
+            "Compare the prices of different 3-bedroom apartments in Houston based on location, amenities, and other factors"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Portland?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Portland\"",
+            "Browse the results from various apartment search websites, real estate listings, or local forums",
+            "Compare the listed prices to get an idea of the average rent"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameSpot Trailers?",
+        "subgoals": [
+            "Open YouTube",
+            "Search for \"GameSpot Trailers\"",
+            "Select the GameSpot Trailers channel",
+            "Select the \"Videos\" tab",
+            "Select the first video in the list"
+        ]
+    },
+    {
+        "task": "What's on Reddit",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website",
+            "View the current trending topics/posts on the Reddit homepage"
+        ]
+    },
+    {
+        "task": "Install the News app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"News\" in the Play Store's search bar",
+            "Select the desired News app from the search results",
+            "Tap the \"Install\" button",
+            " Accept any required permissions",
+            "Wait for the installation to complete"
+        ]
+    },
+    {
+        "task": "What's the weather like in Sydney?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Sydney\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Review the weather information displayed"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Chicago?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Chicago\"",
+            "Browse the search results for a restaurant that looks appealing"
+        ]
+    },
+    {
+        "task": "Search for hotels in Denver",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Denver\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "Turn off notifications for the Google Maps app",
+        "subgoals": [
+            "Locate the Google Maps app icon",
+            "Long-press the Google Maps app icon",
+            "Tap the \"App info\" button",
+            "Tap \"Notifications",
+            "Toggle the notification setting to \"Off\" or select the options to customize which specific Maps notifications are blocked"
+        ]
+    },
+    {
+        "task": "Search for flights from Sydney to Buenos aires",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"Sydney\" in the departure city field",
+            "Enter \"Buenos Aires\" in the arrival city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Check the settings for the Facebook app",
+        "subgoals": [
+            "Open the Settings app",
+            "Scroll down and find the \"Apps & notifications\" section",
+            "Tap on \"Apps & notifications\" or \"See all apps",
+            "Locate and select \"Facebook\" from the list of apps",
+            "You should now be on the Facebook app info screen, which shows its settings"
+        ]
+    },
+    {
+        "task": "Go to Reddit",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Reddit website"
+        ]
+    },
+    {
+        "task": "What's on the menu at Chick-fil-A?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Chick-fil-A website",
+            "Find the \"Menu\" section of the website",
+            "Browse the menu items displayed on the page"
+        ]
+    },
+    {
+        "task": "What does the iPhone 8 look like on eBay?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the eBay website",
+            "Use the search bar to search for \"iPhone 8\"",
+            "View the images of the search results to see what the iPhone 8 looks like"
+        ]
+    },
+    {
+        "task": "What's the price of the Galaxy phone?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells Galaxy phones",
+            "Search or browse for the specific Galaxy phone model you are interested in",
+            "Locate the price of the phone on its product page"
+        ]
+    },
+    {
+        "task": "Search for the best burger restaurants on Maps",
+        "subgoals": [
+            "Locate and open the Google Maps app",
+            "In the search bar at the top of the Maps app, type \"best burger restaurants\"",
+            "Press \"Enter\" or the search icon",
+            "Google Maps will display a list of burger restaurants near your current location"
+        ]
+    },
+    {
+        "task": "Search for hotels in Miami",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Miami\"",
+            "Press \"Enter\" or tap the search button",
+            "Review the search results"
+        ]
+    },
+    {
+        "task": "How much does a 2 bedroom apartment rent for in Boston?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"2 bedroom apartment rent Boston\"",
+            "Click on a relevant link from the search results",
+            "Refine the search on the chosen website with filters for \"2 bedrooms\" and \"Boston\" if necessary",
+            "Browse the listed apartments and note the rental prices"
+        ]
+    },
+    {
+        "task": "Search for a new foundation on Sephora",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Sephora website",
+            "Locate the search bar",
+            "Type \"foundation\" into the search bar and press enter",
+            "Browse the results to find a new foundation"
+        ]
+    },
+    {
+        "task": "Google the capital of Colombia",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Colombia\" into the search bar",
+            "Press Enter or tap the search icon",
+            "The answer should be displayed prominently in the search results"
+        ]
+    },
+    {
+        "task": "What's the news in Malaysia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"News in Malaysia\"",
+            "Select a reputable news source from the search results",
+            "Browse the headlines and articles related to Malaysian news"
+        ]
+    },
+    {
+        "task": "What's on the menu at Olive Garden?",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Olive Garden website",
+            "Navigate to the menu section of the website"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameTrailers?",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to YouTube",
+            "Search for \"GameTrailers\"",
+            "Select the official GameTrailers channel",
+            "Locate and select the latest uploaded video"
+        ]
+    },
+    {
+        "task": "What's the latest news in space?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest space news\" or a similar query",
+            "Select a reputable news source from the search results",
+            "Read the articles about the latest space news"
+        ]
+    },
+    {
+        "task": "What's the weather like in Singapore?",
+        "subgoals": [
+            "Open a browser",
+            "In the search bar, type \"weather in Singapore\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the weather information displayed on the results page"
+        ]
+    },
+    {
+        "task": "Search for flights from NYC to London",
+        "subgoals": [
+            "Open a browser",
+            "Go to a flight search website",
+            "Enter \"NYC\" in the departure city field",
+            "Enter \"London\" in the destination city field",
+            "Select the desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "Open the play store",
+        "subgoals": [
+            "Locate the Play Store icon",
+            "Tap the Play Store icon"
+        ]
+    },
+    {
+        "task": "What's the weather like in Los Angeles?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"weather in Los Angeles\" in the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "View the weather information displayed in the search results"
+        ]
+    },
+    {
+        "task": "How much does a 3 bedroom apartment rent for in Philadelphia?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"3 bedroom apartment rent Philadelphia\"",
+            "Browse the results, focusing on reputable real estate websites",
+            "Review the listed prices for 3-bedroom apartments in Philadelphia"
+        ]
+    },
+    {
+        "task": "Check the settings for the Google Photos app",
+        "subgoals": [
+            "Locate the Google Photos app icon",
+            "Long-press the Google Photos app icon",
+            "Select \"App info\" or \"Information\" from the pop-up menu",
+            "This will open the app settings for Google Photos"
+        ]
+    },
+    {
+        "task": "Open the calendar",
+        "subgoals": [
+            "Locate the Calendar app icon",
+            "Depending on the device configuration, either:",
+            "Tap the Calendar app icon to open it"
+        ]
+    },
+    {
+        "task": "What's a goodrestaurant in Austin?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Austin\"",
+            "Browse the results to find one that appeals to you"
+        ]
+    },
+    {
+        "task": "Open a new private window in Chrome",
+        "subgoals": [
+            "Open the Chrome app",
+            "Tap the three dots in the upper right corner",
+            "Tap \"New incognito tab\""
+        ]
+    },
+    {
+        "task": "Find the nearest electronics store that's open now",
+        "subgoals": [
+            "Open a maps application",
+            "Ensure location services are enabled on the device",
+            "Search for \"electronics store\"",
+            "Filter the results to show only stores that are currently open",
+            "Examine the map and/or list of results to determine the nearest open electronics store"
+        ]
+    },
+    {
+        "task": "Install the Twitter app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"Twitter\" in the Play Store",
+            "Select the official Twitter app from the search results",
+            "Tap the \"Install\" button",
+            "Wait for the app to download and install",
+            "The app will then be accessible, likely appearing on the home screen or in the app drawer"
+        ]
+    },
+    {
+        "task": "Open the contacts app",
+        "subgoals": [
+            "Locate the Contacts app icon",
+            "Swipe up from the bottom of the screen to access the app drawer",
+            "Locate the Contacts app icon in the app drawer",
+            "Tap the Contacts app icon to open it"
+        ]
+    },
+    {
+        "task": "What's the news in Vietnam?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"news in Vietnam\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to Vietnam"
+        ]
+    },
+    {
+        "task": "What's a good restaurant in Houston?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"good restaurants in Houston\"",
+            "Browse the results and choose one based on reviews, cuisine type, location, etc"
+        ]
+    },
+    {
+        "task": "What's the latest news in cosmology?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"latest news in cosmology\"",
+            "Select a reputable news source from the search results",
+            "Read the articles or watch videos related to the latest cosmology news"
+        ]
+    },
+    {
+        "task": "Search for hotels in Boston",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a hotel booking website or a search engine like Google",
+            "In the search bar, type \"hotels in Boston\"",
+            "Press \"Enter\" or tap the search icon",
+            "Review the search results displayed"
+        ]
+    },
+    {
+        "task": "Search for flights from San Francisco to Tokyo",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a flight search website",
+            "Enter \"San Francisco\" in the departure city field",
+            "Enter \"Tokyo\" in the destination city field",
+            "Select desired travel dates",
+            "Click the \"Search\" button"
+        ]
+    },
+    {
+        "task": "What is the speed of a skateboard?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"speed of a skateboard\"",
+            "Select a relevant search result",
+            "Read the information on the page to find the answer"
+        ]
+    },
+    {
+        "task": "Search for a new nail polish",
+        "subgoals": [
+            "Open a browser",
+            "Navigate to a website that sells nail polish",
+            "Use the website's search bar to search for \"nail polish\"",
+            "Browse the results to find a nail polish you like"
+        ]
+    },
+    {
+        "task": "What's the latest video from GameSpot?",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to YouTube",
+            "Search for the \"GameSpot\" channel",
+            "Locate the latest video uploaded by the GameSpot channel",
+            "Click on the video to play it"
+        ]
+    },
+    {
+        "task": "Where can I buy a nice beach hat?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"where to buy beach hats\"",
+            "Click on a link from the search results that seems relevant",
+            "Browse the available options and choose a hat you like"
+        ]
+    },
+    {
+        "task": "What's the news in theFalkland Islands?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"Falkland Islands news\"",
+            "Select a reputable news source from the search results",
+            "Browse the articles related to the Falkland Islands"
+        ]
+    },
+    {
+        "task": "Search for a new lipstick on Sephora",
+        "subgoals": [
+            "Open a browser",
+            "Go to the Sephora website",
+            "Use the search bar to search for \"lipstick\"",
+            "Browse the search results to find a lipstick you like",
+            "Click on the chosen lipstick to view the product details",
+            " Select the desired shade and/or quantity",
+            "Click on the \"Add to Cart\" or similar button"
+        ]
+    },
+    {
+        "task": "What does the iPhone 8 look like?",
+        "subgoals": [
+            "Open a browser",
+            "Search for \"iPhone 8 images\"",
+            "Click on the \"Images\" tab",
+            "Browse the displayed images to see what the iPhone 8 looks like"
+        ]
+    },
+    {
+        "task": "Install the CNN app",
+        "subgoals": [
+            "Open the Google Play Store app",
+            "Search for \"CNN\" in the search bar at the top of the Play Store",
+            "Locate the CNN app in the search results",
+            "Tap on the app listing",
+            "Tap the \"Install\" button",
+            " Accept any permission requests",
+            "Wait for the app to download and install"
+        ]
+    },
+    {
+        "task": "Play the latest video from the New York Times",
+        "subgoals": [
+            "Open a web browser",
+            "Navigate to the New York Times website",
+            "Locate the video section of the website",
+            "Identify the latest video",
+            "Click the play button on the latest video to start playback"
+        ]
+    },
+    {
+        "task": "What is the capital of Mexico?",
+        "subgoals": [
+            "Open a browser",
+            "Type \"What is the capital of Mexico?\" into the search bar",
+            "Press \"Enter\" or tap the search icon",
+            "Read the answer displayed on the search results page"
+        ]
+    },
+    {
+        "task": "Google the capital of Venezuela",
+        "subgoals": [
+            "Open the Google app",
+            "Type \"capital of Venezuela\" into the search bar",
+            "Press Enter or tap the search icon",
+            "The answer will be displayed on the results page"
+        ]
+    }
+]

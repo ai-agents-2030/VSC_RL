@@ -1,0 +1,20 @@
+defaults:
+  - default
+  - _self_
+
+save_path: '/home/<username>/logs/vscrl-general-online/'
+run_name: 'vscrl-general-online'
+
+# training
+train_algorithm: "vscrl" # "vscrl"
+train_mode: "online"
+task_mode: "train" # "train" or "evaluate"
+parallel: "single" # "single" or "host" or "worker"
+
+offline_actor_iterations: 30
+offline_critic_iterations: 20
+offline_trajectory_critic_iterations: 20
+
+train_iterations: 100
+eval_iterations: 9
+save_freq: 10
